@@ -1,4 +1,9 @@
 h1 {
-  color: red;
+  color: rgb(255, 0, 51);
   text-align: center;
+  text-decoration: underline;
+}
+
+body {
+  color: rgb(206, 176, 234);
 }
