@@ -1,10 +1,28 @@
 h1 {
-  color: rgb(255, 0, 51);
+  color: rgb(4, 26, 9);
   text-align: center;
-  text-decoration: underline;
 }
 
 body {
-  background-color: rgb(206, 176, 234);
+  background-color: rgb(230, 216, 244);
   color: rgb(0, 10, 0);
+}
+
+a {
+  color: blue;
+}
+
+.croissant-image {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 10px auto;
+}
+
+p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
 }
